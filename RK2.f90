@@ -1,5 +1,3 @@
-	!Himank Kavathekar
-	!PRN: 2019P038
 	!Solving 1st order differential equation by Runge Kutta 2nd order method
 	
 	program RK2

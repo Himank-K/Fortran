@@ -1,5 +1,3 @@
-	!Himank Kavathekar
-	!PRN: 2019P038
 	!Linear stability analysis of Lorenz equations
 	
 	program lorenz_stability_analysis
